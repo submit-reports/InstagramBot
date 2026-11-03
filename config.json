@@ -1,10 +1,12 @@
 {
   "botName": "InstagramBot",
-  "prefix": "/",
+  "prefix": "*",
   "adminNames": [
-    "Sheikh Tamim"
+    "Tanvir Ahmed"
   ],
-  "adminUIDs": [],
+  "adminUIDs": [
+    "62599140277"
+  ],
   "dmWork": true,
   "adminOnly": false,
   "cookieAuth": {
